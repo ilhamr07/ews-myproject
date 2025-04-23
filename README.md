@@ -75,3 +75,5 @@ lalu pindah ke aws ec2 jalankan perintah berikut
 
 akses dengan ippublik apakah berhasil
 
+test update
+
